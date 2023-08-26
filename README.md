@@ -1,12 +1,11 @@
-# odin-recipes
+# The Odin Project - Odin recipes
 
-## The Odin Project 
-
-### Recipe Page
+## Recipe Page
 Creating a simple recipe page to showcase basic HTML.
 
-### Knowledge gained
+## Knowledge gained
 This was the first assignment on The Odin Project.
+
 Until this part of the curriculum I learned the following things:
 
 * creating files & directorys
@@ -16,6 +15,6 @@ Until this part of the curriculum I learned the following things:
 * html paragraphs, headers, images & links
 * [...more soon probably?]
 
-### Built with
+## Built with
 
-* HTML
+* - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
