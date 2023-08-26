@@ -4,7 +4,7 @@
 Creating a simple recipe page to showcase basic HTML.
 
 ## Knowledge gained
-This was the first assignment on The Odin Project.
+This was the first project on TOP.
 
 Until this part of the curriculum I learned the following things:
 
