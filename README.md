@@ -12,9 +12,9 @@ Until this part of the curriculum I learned the following things:
 * navigating through the terminal
 * git basics
 * html boilerplate
-* html paragraphs, headers, images & links
-* [...more soon probably?]
+* html tags, images & links
+* .. more soon?
 
 ## Built with
 
-* - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
