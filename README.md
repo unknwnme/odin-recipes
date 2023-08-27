@@ -13,8 +13,10 @@ Until this part of the curriculum I learned the following things:
 * git basics
 * html boilerplate
 * html tags, images & links
-* .. more soon?
+* css syntax & selectors
+* css cascades
 
 ## Built with
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+* [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
