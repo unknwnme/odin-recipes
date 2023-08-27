@@ -3,7 +3,7 @@
 ## Recipe Page
 Creating a simple recipe page to showcase basic HTML.
 
-## Knowledge gained
+## Knowledge acquired
 This was the first project on TOP.
 
 Until this part of the curriculum I learned the following things:
@@ -19,4 +19,4 @@ Until this part of the curriculum I learned the following things:
 ## Built with
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-* [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
