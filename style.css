@@ -1,0 +1,28 @@
+/* style.css */
+
+body {
+    font-family: verdana, arial, "times new roman", sans-serif;
+    background-color: gray;
+}
+
+/* text stuff */
+
+h1 {
+    text-align: center;
+}
+
+.rice,
+.burger,
+.shrimps {
+    color: lightcoral;
+}
+
+.recipes {
+    font-size: 18px;
+}
+
+/* image stuff */
+
+.images {
+    text-align: center;
+}
